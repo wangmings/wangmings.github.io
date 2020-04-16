@@ -1,0 +1,18 @@
+@RequestStart@
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    Accept-Encoding: gzip, deflate, br
+    Accept-Language: zh-CN,zh;q=0.9,et;q=0.8,en;q=0.7
+    Cache-Control: max-age=0
+    Connection: keep-alive
+    Cookie: _ga=GA1.2.122888739.1555398668; _octo=GH1.1.1007053394.1555398668; _device_id=7a9c35f9b326e5a242808e6fd5dd3351; experiment:homepage_signup_flow=eyJyb2xsT3V0UGxhY2VtZW50IjoxMiwic3ViZ3JvdXAiOiJlbWFpbCIsImNyZWF0ZWRBdCI6IjIwMjAtMDItMjZUMDk6NTU6NDguNjA5WiIsInVwZGF0ZWRBdCI6IjIwMjAtMDItMjZUMDk6NTU6NDguNjA5WiJ9; user_session=7MjtJsTjijCl4VLDuiziklsv1BnqqwMYHpm5bEnow2MFG_xt; __Host-user_session_same_site=7MjtJsTjijCl4VLDuiziklsv1BnqqwMYHpm5bEnow2MFG_xt; logged_in=yes; dotcom_user=wangmings; tz=Asia%2FShanghai; has_recent_activity=1; _gat=1; _gh_sess=eDCYUC69ZAFmLvZJCET%2BmT12KbYtZx%2B27Djq3M2smYALuEkHi00r8d4J5zYj2hh5zYaRpF8%2BJHJEScKxptEDX1Mm%2Feda96Zazs%2B38RTYBf5GKTumY5G%2B%2BYrL6fgF60B04ONJAc%2BEkcy8Jz%2B9%2Fc6P5fnGXygEDqzKSqxn%2BAN9bBuzoMObPPFkG37pHDaguT8PbmXtYv7wXEtm66%2FxrWZPrDsUMkzWfvvxuSzLgAldPCCkIHu6ZLpdIa6mT3Xsow4zCzFsM0AMRGralObb9B0jndh4MfRNIemaz%2FQMcbObJUf4Phy83PSa00vI6IOS8fPFyp9eggRZmVJRCuUpgd6tCpJT9j8oLa0f9UU48n81RkJv7m8%2ByC%2BaXumdKtU4BTRrsI0m%2FU9%2FezqatY2gzzVnVsMMECm%2BnR5rBYDHzUmyl12XbAvotqEsSQPAFB6%2FBWA7YbLmsb6BXdRHXs7eeJlkltv8f6cCzc9kam4Kmt6XIQHp%2FT97Cmz2gHHRmujnVOrsFnd4Y5jGcIa5KH2vhRrMDIQeXIGwmZEFUuW34Tu4bUJj4upHx4Q5ZNGtor66mZdwvNexZyf9qMIfOZRGFT2LXT2Wjj%2Bok4kb3ikx1EcmdvZjbknLAzvQZKwOaoDF%2BtzYx1FbLx4tDnzguJmgFs%2FKUwdfyGed%2FbCTrpXg81LiiFy6nc6xT73NDjr2ae%2FzX9pgxSMNQ0Ho5S1p%2Bc%2Fa%2F241b2ZjQ0eQhndAT0lqpMgqQ4%2FHK%2FPjuwhXLKs4j6nGxx%2BL6qXWpbUb5llxVjumF7Q8DJo%2B1TvIKPcNps2eCeBOm4JWiiaLCmRBH1g2lwpNtbOMcgCHTA%2BKMd9Eyv5lxJoyJPFPoYEx2cxOqW142gLCpG8NpJS6pZsyI0jWaOCkl658ayse%2BhDlm6Puu6x%2FSSMSlsRm9dMm3npYfw5VNUYFI%2FfSXPqvXBXJMHGPOq1yJnNT896vlvK09qLcvkJeZV9yanH7NIXuZzum6yZbwFeYYfapnsJZDiIaQG3a2Bi8ChEI3%2BCj4E3A4NFv2PfwpshxtjGIOxwJ6BQ93p7qWozo5bfDQ2%2BHw5O1T8gfMuJuEIyQ6cTOmB3hVLYyBq9u9KAY1kaYS2I4kspJHRArlVYizc5hkgDcJFFdO5VBmjE0wLtcozlzyH6MgvZfwQ482Xs5rQlCluuKRsbLnEy1sFDJAK4vtg5p%2FUFcFm295eeynmsNP4hZx4g64TQCaZqsg3klvh%2BLJ7NmEMFC3ozaG8U194u%2BCMyZaZZtUb2g3rcYzzUf%2FALjqCqwCGmI1%2FbTIlhML%2FAI55aweinqOR7MRbp%2BBZR0HVBYaTh3rcZsdCHbPyl4HMtdzKlFt2J3QoMqlWzmt3wn9Y83oX71YMFWLC%2FEckqDA6BA1LYScq6K9x0bSZaXB39Sj24Y%2BrQsSiYzKhvs6G35VkkPmJfwABoszi76Hebw8WmgtFt6yxvyMFKVQCxihnBQ2A%3D%3D--HJ2L08FEQoh%2FT4D9--NPLByV0RRX%2BxJEmymekt4g%3D%3D
+    Host: github.com
+    If-None-Match: W/"bc8431bd009b192402ac288504c9d8b0"
+    Sec-Fetch-Dest: document
+    Sec-Fetch-Mode: navigate
+    Sec-Fetch-Site: none
+    Sec-Fetch-User: ?1
+    Upgrade-Insecure-Requests: 1
+    User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+@RequestEnd@
+
+

@@ -1,0 +1,34 @@
+@RequestStart@
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    Accept-Encoding: gzip, deflate, br
+    Accept-Language: zh-CN,zh;q=0.9,et;q=0.8,en;q=0.7
+    Cache-Control: max-age=0
+    Connection: keep-alive
+    Content-Length: 328
+    Content-Type: application/x-www-form-urlencoded
+    Cookie: _ga=GA1.2.122888739.1555398668; _octo=GH1.1.1007053394.1555398668; _device_id=7a9c35f9b326e5a242808e6fd5dd3351; experiment:homepage_signup_flow=eyJyb2xsT3V0UGxhY2VtZW50IjoxMiwic3ViZ3JvdXAiOiJlbWFpbCIsImNyZWF0ZWRBdCI6IjIwMjAtMDItMjZUMDk6NTU6NDguNjA5WiIsInVwZGF0ZWRBdCI6IjIwMjAtMDItMjZUMDk6NTU6NDguNjA5WiJ9; tz=Asia%2FShanghai; has_recent_activity=1; user_session=7MjtJsTjijCl4VLDuiziklsv1BnqqwMYHpm5bEnow2MFG_xt; __Host-user_session_same_site=7MjtJsTjijCl4VLDuiziklsv1BnqqwMYHpm5bEnow2MFG_xt; logged_in=yes; dotcom_user=wangmings; _gat=1; _gh_sess=JRkEZRLEoSwOFVYc1ujFHYcqTFrqqc6bRJNMnTg7aNOATeH%2BkZ9yZ3lBNXOwPRaSGOPRu7fVTAuj9xzmwDmesWCptKHYMZERKh9qcZuaUAvE3ha9qO12G3279AQpszkbArZVsaZHcnW8ChP9PXz8MNXfSe2ZQ%2F%2BP%2FhssQSMAswFImYNY%2FtHfr7siQLmUIRm1MtJCXBgOO%2B%2BScT44bkxhMloDl8uqDAPJmNNu0X5SK0aKpXvBQIrtc%2F81I5Cq89Uz0LQ8lVlBFf4UgY3KgRNkQ98D0yyaP%2BV8Myv%2BOiQ1vBYZFE%2BGlMyFUaNzQ1N%2B%2Fz5Mz5tWoA%2FEntapHpqPOAuEQirM1SIprPkAUZvfFCT8%2BplyShSwcHVIHC2fM9Byn%2Fcpv4jgfPst9Q1mLObXQM4OZVq0DVhWB95qrjKkdCW%2BwrpX%2BtzalLfOEhywZ7Ys4wA9GwCu8FP9SSuAg7C45hQ5UWWfd3CV0iqoCPEIyBjua0SQlQBziMIKpZzeq7iapGS4mrcEqZ4KXa3fwq8SIqnrZWL598wf%2FGwVJzXNwxmJjavzZffqqzW%2BI20PmM%2Fp0GLxDQDQdFztg0jLAXCeAPgpd0c4AESiLM79kVSA5UhyDbzAhWksyxiMPqR%2F1oQzM1KcRZkbRqDLgx9CjUJQLtQKmSiNrTpeNLVkKmxcjh1h%2BVDiNC6kRy7uu2P%2BOT2NH1apwSgZefprpgzmJoi2meoZN5PGcUo7qUYcSsRhl8kGiOXn1Lb5ZyDZzPt2Sj0XeVmCu%2F6oCIc%2BOnsvZP6Q5Mjb9S2qHXsbm6M2AZeqhKSAgGTusmT6Ys7v2PNbgpMs4OKsNel3ce1IwgEX6IBYkJyYJFXp0Dfa4LBbktk%2BrIcKrKAJ%2FLwpV4723Tnzr2%2BEyhyBHglcEIm8QXnn55p%2FakzjDkp9F6VrQBdyQyveUqhse4Z7PQljv8IWrEFXhR9fHtdICDw4IwXAT%2FvSkxcpHLf5CWKs1d525paXulMYmLq7ogbTKIf%2BtK%2FclsQQU6njAz0XmC6MhSMNWK8ap2lwDLekxcDivqiRPg45hHH7ZY6jfVzEopfhf21ABhcNouIUZGRFdXXxVoDQaRd0vW7zQ8xuFNXqHEGNveduIHlPuPLdHklhJyuRGTDqhsuXwl1yPqXgfzvBznQ1tj1D20clR8844MT8MfhNJXHhesOmhTHOYd2jc9ZbIn0gJKnZjDdron%2Bob99%2BSmHKppnlw8ATbSmzKPu9pu6JToTlmVnmUbea3NDtmvV%2By4L530SU5JaA2aZKD%2FqOCYfXMZbRMzcH6B4%2Fou%2BHjqH6r9ImqD92A3hZxK2oSoSKQW3Gx7%2FBx8ZMHLA%2F8%2BmwMM3PXBAajYbj6aH804%2BBRq9EDWOLj%2B1dkIAZi5rUKVHAkez2QfZ5NUYxKtn5M4xPAc8wUpKay2%2FPGNXfhMocRUkwhYLNjoCOJCGryrJA6rFB1ltPzUrIG3cw35aX0JcC6rIZ8ayNCOMgDWn3WLnAmDhn5K2VbDwrV4gseJ7fT%2BlwArbXb9p0su1tT21w2%2BsXtxBCqrn%2BBbh8J1laHS34uAuU86RY%2FmIx8%2B%2FPkbVSElVdjZfoMDoLm3NeDQkdlnAlbrGVx6uPvVn2k9uEeSbmpq330r2mFbyVd0B8rYAfq1YV4NFyPyA1HLwnLhfmQMkb1lSDM4HgP4jGjSRqM0JAK%2Fe3Z2AWDRjd88ZdJmKqw5jiedTpMB8oMqXDA08aqxnedyeaJkRbbN8y%2FoJSzntx%2Bg5noL9zxNpq%2FKebLpJP71f5v3jwQN2wQeDj8etlyOP%2BAlRTba93dQgIRbRifiRJG1ZLIwfcUKy6M9RFPy0uRdVlKitDgxYwzQO6QfUP9LuHcnavzkui6tOPeN9Dpw%3D%3D--7yJ%2FT4u4YU5Z2zxH--pTgJXKAnUEQEu6f%2BvthsVg%3D%3D
+    Host: github.com
+    Origin: https://github.com
+    Referer: https://github.com/new
+    Sec-Fetch-Dest: document
+    Sec-Fetch-Mode: navigate
+    Sec-Fetch-Site: same-origin
+    Sec-Fetch-User: ?1
+    Upgrade-Insecure-Requests: 1
+    User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+@RequestEnd@
+
+
+@ReqDataStart@
+    authenticity_token: 5rZvbhqUnFBsDkUCo+jTkEaGB4DIk/baKzW+FTd56b+BbxYMtoaDn4ryuWWNkIhNU+HjhbGKkswEAgfYTwpg8w==
+    owner: wangmings
+    repository[name]: libName
+    repository[description]: 
+    repository[visibility]: private
+    repository[auto_init]: 0
+    repository[gitignore_template]: 
+    repository[license_template]: 
+@ReqDataEnd@
+
+
+
